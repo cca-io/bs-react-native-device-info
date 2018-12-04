@@ -1,0 +1,14 @@
+{
+  "name": "bs-react-native-device-info",
+  "sources": ["src"],
+  "reason": {
+    "react-jsx": 2
+  },
+  "refmt": 3,
+  "bsc-flags": ["-bs-super-errors"],
+  "package-specs": {
+    "module": "commonjs",
+    "in-source": true
+  },
+  "suffix": ".bs.js"
+}
