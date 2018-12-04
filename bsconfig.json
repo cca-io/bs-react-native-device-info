@@ -1,5 +1,5 @@
 {
-  "name": "bs-react-native-device-info",
+  "name": "@cca-io/bs-react-native-device-info",
   "sources": ["src"],
   "reason": {
     "react-jsx": 2
