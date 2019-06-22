@@ -1,6 +1,6 @@
 {
   "name": "@cca-io/bs-react-native-device-info",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Reason/BuckleScript bindings for react-native-device-info",
   "main": "src/RNDeviceInfo.bs.js",
   "repository": "https://github.com/cca-io/bs-react-native-device-info.git",
