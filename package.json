@@ -13,11 +13,11 @@
     "format": "bsrefmt --in-place src/*.re"
   },
   "peerDependencies": {
-    "bs-platform": "^4.0.6",
-    "react-native-device-info": "^0.24.3"
+    "bs-platform": "^5.0.4",
+    "react-native-device-info": ">=0.24.3"
   },
   "devDependencies": {
-    "bs-platform": "^4.0.6"
+    "bs-platform": "^5.0.4"
   },
   "files": [
     "src",
