@@ -18,7 +18,7 @@ Then add bs-react-native-device-info to the dependencies in your bsconfig.json, 
 {
   "name": "my-app",
   ...
-  "bs-dependencies": ["reason-react", "bs-react-native", "bs-react-native-device-info"],
+  "bs-dependencies": ["reason-react", "reason-react-native", "bs-react-native-device-info"],
   ...
 }
 
