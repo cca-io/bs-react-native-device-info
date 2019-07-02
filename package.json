@@ -17,7 +17,7 @@
     "react-native-device-info": ">=0.24.3"
   },
   "devDependencies": {
-    "bs-platform": "^5.0.4"
+    "bs-platform": "^5.0.6"
   },
   "files": [
     "src",
